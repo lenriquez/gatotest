@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gatoTest"
+    }
+  },
+  "defaultProject": "gatoTest",
+  "cli": {
+    "analytics": "ebc4967c-f1dc-4bcf-92b6-d53a79b59672"
+  }
 }
